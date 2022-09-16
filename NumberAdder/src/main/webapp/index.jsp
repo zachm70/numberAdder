@@ -14,6 +14,12 @@
 	<input type="text" name="userNumber2" size="10">
 	<input type="submit" value="Calculate"/>
 	</form>
+	
+	<h1> Test if odd or even</h1>
+	<form action="getOddOrEven" method="post">
+	Enter number: <input type="text" name="userNum" size="10">
+	<input type="submit" value="Find"/>
+	</form>
 
 
 </body>
